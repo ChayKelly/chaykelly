@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Chay, I am a digital marketer currently working at a digital agency and living in Suffolk. I have a passion for all things marketing, technology, photography and coding.
+I'm Chay, I am a freelance digital marketer living in Suffolk. I have a passion for all things marketing, technology, photography and coding.
 
-Besides my full-time marketing job, I’m improving my HTML and CSS skills, learning more about PHP and jQuery and making more time for my photography. All of my (best) pictures are on [Unsplash](https://https://unsplash.com/@chaykelly_/) which are free to use!
+Besides my digital marketing work, I’m improving my HTML and CSS skills, learning more about PHP and jQuery so I can keep improving the output for my clients and relying less on developer support. I'm also making more time for my photography. All of my (best) pictures are on [Unsplash](https://https://unsplash.com/@chaykelly_/) which are free to use!
 
 You can learn more about me and contact me on my site - [chaykelly.com](https://chaykelly.com/)
 
